@@ -1,0 +1,305 @@
+* {
+	background-color: black;
+	margin: 10px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.main-video {
+	align-content: center;
+	border: rgb(12, 12, 12) solid;
+	display: block;
+	margin: auto;
+}
+
+.copyright {
+	background-color: cadetblue;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	padding: 5px;
+	display: block;
+	width: 800px;
+	clear: both;
+}
+
+.bio {
+	width: auto;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: 14pt;
+	font-style: italic;
+	padding: 3%;
+}
+
+img {
+	display: inline-block;
+	align-content: center;
+	margin: 30px;
+}
+
+.html,
+.c,
+.CwithClasses,
+.css,
+.java,
+.js {
+	width: 5%;
+}
+
+.html:hover,
+.c:hover,
+.CwithClasses:hover,
+.css:hover,
+.java:hover,
+.js:hover {
+	border: black solid;
+}
+
+article {
+	width: 800px;
+}
+
+.prog-logos {
+	/*border: cadetblue dotted;*/
+	text-align: center;
+	width: 800px;
+}
+
+.resume {
+	text-align: center;
+}
+
+.cv,
+.cv1 {
+	margin: 0%;
+	border: cadetblue dotted;
+}
+
+.title-resume {
+	width: 800px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	text-align: center;
+}
+
+.fb,
+.tw,
+.youtube {
+	margin: 5px;
+}
+
+.resume-side {
+	width: 250px;
+	height: 459px;
+	background-color: cadetblue;
+	color: white;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.resume-body {
+	width: 540px;
+	color: white;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.working-experience,
+.education {
+	padding: 1%;
+	background-color: cadetblue;
+	text-transform: uppercase;
+}
+
+.working-experience {
+	background-color: black;
+}
+
+form {
+	background-color: cadetblue;
+}
+
+.more-working-experience,
+.more-education {
+	font-style: italic;
+	text-align: center;
+}
+
+.we-button,
+.education-button {
+	color: whitesmoke;
+}
+
+.portfolio-foto {
+	margin: 10px;
+	margin-left: 50px;
+	background-color: cadetblue;
+}
+
+.education {
+	background-color: cadetblue;
+	color: white;
+	text-transform: none;
+	width: auto;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.educ {
+	width: 780px;
+	text-align: left;
+	text-transform: uppercase;
+	color: white;
+	text-decoration: solid;
+}
+
+.main-table,
+.table-education {
+	width: 800px;
+	color: white;
+}
+
+.phd,
+.mpa,
+.gb {
+	background-color: black;
+	border: cadetblue solid;
+	text-align: center;
+}
+
+.contact,
+.e-mail,
+.mob,
+.social-media,
+.tw,
+.youtube,
+.fb-img {
+	background-color: cadetblue;
+	margin-left: 5%;
+}
+
+.softdeveloper,
+.nedc,
+.tsu {
+	background-color: cadetblue;
+	margin-left: 2%;
+}
+
+strong {
+	background-color: cadetblue;
+}
+
+.langs {
+	width: 780px;
+	text-align: left;
+	background-color: transparent;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: whitesmoke;
+}
+
+h3 {
+	color: rgba(0, 0, 0, 0.555);
+}
+
+.languages {
+	width: 760px;
+	background-color: transparent;
+	color: whitesmoke;
+	text-transform: none;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.ml,
+.ol,
+.eng,
+.ukr,
+.ger,
+.lat,
+.tur {
+	background-color: transparent;
+}
+
+.ml:hover,
+.ol:hover,
+.eng:hover,
+.ukr:hover,
+.ger:hover,
+.lat:hover,
+.tur:hover {
+	color: yellow;
+}
+
+.lswr {
+	width: 800px;
+}
+
+.eng-skills,
+.eng-skills-ass,
+.ukr-skills,
+.ukr-skills-ass,
+.ger-skills,
+.ger-skills-ass,
+.lat-skills,
+.lat-skills-ass,
+.tur-skills,
+.tur-skills-ass {
+	text-align: center;
+}
+
+.eng-skills:hover,
+.eng-skills-ass:hover,
+.ukr-skills:hover,
+.ukr-skills-ass:hover,
+.ger-skills:hover,
+.ger-skills-ass:hover,
+.lat-skills:hover,
+.lat-skills-ass:hover,
+.tur-skills:hover,
+.tur-skills-ass:hover {
+	color: yellowgreen;
+}
+
+.russian,
+.ossetian,
+.georgian {
+	display: inline;
+}
+
+.russian:hover,
+.ossetian:hover,
+.georgian:hover {
+	color: yellowgreen;
+}
+
+.softdeveloper,
+.nedc,
+.freelancer,
+.project-assistant,
+.tsu,
+.politics-lecturer {
+	background-color: black;
+}
+
+.menu,
+.sikharulidze {
+	color: white;
+	padding: 0%;
+}
+
+.menu-img {
+	padding: 0%;
+}
+
+.menu-img:hover {
+	transform: rotate(90deg);
+}
+
+.sikharulidze {
+	width: 680px;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: cadetblue;
+	padding: 5px;
+}
